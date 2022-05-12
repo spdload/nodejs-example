@@ -1,4 +1,4 @@
-# nodejs Test CRUD API and Auth module Example
+# Nodejs Test CRUD API and Auth module Example
 
 In this gist we want to show our implementation of a fairly typical cruds api and auth module.
 
